@@ -1,4 +1,4 @@
-import 'dart:html';
+import 'package:universal_html/prefer_sdk/html.dart';
 import 'dart:async';
 
 import 'package:phoenix_wings/src/phoenix_connection.dart';
